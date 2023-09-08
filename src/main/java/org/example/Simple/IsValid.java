@@ -1,4 +1,4 @@
-package org.example.algorithms;
+package org.example.Simple;
 
 /**
  * @author :刘贺君

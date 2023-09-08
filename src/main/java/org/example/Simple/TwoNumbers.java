@@ -1,9 +1,8 @@
-package org.example.algorithms;
+package org.example.Simple;
 
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Random;
 
 /**
  * @author :刘贺君

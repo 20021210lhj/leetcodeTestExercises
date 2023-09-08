@@ -1,6 +1,4 @@
-package org.example.algorithms;
-
-import java.math.BigInteger;
+package org.example.medium;
 
 /**
  * @author :刘贺君
