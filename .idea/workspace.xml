@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cec05a90-eec8-48b7-9d7d-d9a5e1fdf200" name="更改" comment="1" />
+    <list default="true" id="cec05a90-eec8-48b7-9d7d-d9a5e1fdf200" name="更改" comment="1">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Simple/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Simple/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Simple/MinCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Simple/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Simple/RemoveDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Simple/SumIndicesWithKSetBits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Simple/dynamicProgramming/ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Simple/dynamicProgramming/Fib.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Simple/dynamicProgramming/Tribonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/medium/RobMoney.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Simple/IsValid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Simple/IsValid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/medium/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/medium/AddTwoNumbers.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +33,27 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "20021210lhj"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0f831256-ac44-4eb4-a4ad-488d73b0d7d3" />
+        <option name="url" value="https://github.com/20021210lhj/leetcodeTestExercises.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
@@ -41,13 +76,15 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.FindDelayedArrivalTime">
+  <component name="RunManager" selected="应用程序.ClimbStairs">
     <configuration name="AddTwoNumbers (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.algorithms.AddTwoNumbers" />
       <module name="algorithms" />
@@ -61,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.AddTwoNumbers" />
+    <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Simple.dynamicProgramming.ClimbStairs" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.algorithms.*" />
+          <option name="PATTERN" value="org.example.Simple.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDelayedArrivalTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.FindDelayedArrivalTime" />
+    <configuration name="MinCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Simple.MinCount" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.algorithms.*" />
+          <option name="PATTERN" value="org.example.Simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.RemoveElement" />
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Simple.MoveZeroes" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.algorithms.*" />
+          <option name="PATTERN" value="org.example.Simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +137,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumArrags" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.algorithms.TwoSumArrags" />
+    <configuration name="RobMoney" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.medium.RobMoney" />
       <module name="algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.algorithms.*" />
+          <option name="PATTERN" value="org.example.medium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumIndicesWithKSetBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Simple.SumIndicesWithKSetBits" />
+      <module name="algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Simple.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.FindDelayedArrivalTime" />
-        <item itemvalue="应用程序.AddTwoNumbers" />
-        <item itemvalue="应用程序.AddTwoNumbers (1)" />
-        <item itemvalue="应用程序.RemoveElement" />
-        <item itemvalue="应用程序.TwoSumArrags" />
+        <item itemvalue="应用程序.ClimbStairs" />
+        <item itemvalue="应用程序.RobMoney" />
+        <item itemvalue="应用程序.SumIndicesWithKSetBits" />
+        <item itemvalue="应用程序.MoveZeroes" />
+        <item itemvalue="应用程序.MinCount" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +182,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693794115016</updated>
       <workItem from="1693794116097" duration="50161000" />
-      <workItem from="1694158169723" duration="103000" />
+      <workItem from="1694158169723" duration="87361000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -142,7 +192,23 @@
       <option name="project" value="LOCAL" />
       <updated>1694158233994</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1">
+      <option name="closed" value="true" />
+      <created>1694158380482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694158380482</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <option name="closed" value="true" />
+      <created>1694158519738</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1694158519738</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,28 +226,32 @@
           <option name="timeStamp" value="12" />
         </breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/algorithms/RemoveElement.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Simple/RemoveElement.java</url>
           <line>28</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/algorithms/RemoveElement.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Simple/RemoveElement.java</url>
           <line>31</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/algorithms/AddTwoNumbers.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="57" />
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Simple/MaxProfit.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="74" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/algorithms/AddTwoNumbers.java</url>
-          <line>25</line>
-          <properties class="org.example.algorithms.AddTwoNumbers" method="aVoid">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Simple/IsPalindrome.java</url>
+          <line>21</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
           </properties>
-          <option name="timeStamp" value="58" />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Simple/dynamicProgramming/ClimbStairs.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="92" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
